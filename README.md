@@ -10,7 +10,7 @@
   - Simplilearn, Great Learning, Hackerrank Certified in Cybersecurity, SQL, Java, Python, Rust, etc.  
 - ⚡ Fun fact: I love building AI-powered applications that help solve real-world problems and enjoy exploring new programming languages!  
 - 🛠️ Tech Stack:  
-  - Languages: Python, Java, JavaScript, Rust, SQL, HTML, CSS  
+  - Languages: Python, Java, JavaScript, Rust, SQL, HTML, CSS , React, C  
   - Tools & Frameworks: Kali Linux, Wireshark, React.js, Flask, Django, TensorFlow  
   - Databases: MySQL, MongoDB, SQLite  
   - Other: Git, Docker, Linux  
