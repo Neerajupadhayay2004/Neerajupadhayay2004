@@ -63,7 +63,7 @@ I'm a passionate and driven **Cybersecurity Enthusiast**, **Full-Stack Developer
 - **Frontend:** React.js, HTML/CSS/JS  
 - **Backend:** Flask, Django, Node.js  
 - **AI/ML:** TensorFlow, Scikit-learn  
-- **Cybersecurity:** Wireshark, Zenmap, Kismet, Cloner Tools  
+- **Cybersecurity:** Wireshark, Zenmap, Kismet, Cloner Tools, etc. 
 - **Databases:** MySQL, MongoDB, SQLite  
 - **Tools:** Kali Linux, Git, Docker, VS Code, Pycharm  
 
