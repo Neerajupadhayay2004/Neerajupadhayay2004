@@ -1,14 +1,15 @@
-## 🖥️ Visual Identity (Ethical Hacker Domain)
 
-![Image](https://www.intellectualpoint.com/wp-content/uploads/2021/01/CHE-V11.jpg)
+## 🖥️ Ethical Hacker Visual Identity
 
-![Image](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/web-application-firewall.png)
+![Image](https://www.wgu.edu/blog/2019/08/ethical-hacking-how-fits-with-cybersecurity/_jcr_content/root/container/imageandtext_432423664.coreimg.85.800.jpeg/1764613200801/black-hat-hacking.jpeg)
+
+![Image](https://cdn.infrasos.com/wp-content/uploads/2022/11/Fluxion.png)
 
 ![Image](https://www.wireshark.org/docs/wsug_html_chunked/images/ws-main.png)
 
 ![Image](https://networkproguide.com/wp-content/uploads/diagram-wireshark-working-user-interface-ui.png)
 
-![Image](https://media.geeksforgeeks.org/wp-content/uploads/20220825131329/mainwindow.jpg)
+![Image](https://www.wireshark.org/docs/wsug_html_chunked/images/ws-packet-selected.png)
 
 ---
 
@@ -18,72 +19,68 @@
 🎓 Student at **IILM University**
 💻 **Kali Linux Power User** | Open-Source Contributor
 
-> 🔐 Building **secure**, 🤖 **intelligent**, and 🌍 **scalable systems** — from **network security to Web3 & AI-driven defense**.
+> 🔐 Building **secure**, 🤖 **intelligent**, and 🌍 **scalable systems** — from **network security to AI & Web3-driven defense**.
 
 ---
 
 ## 🧠 About Me (Who I Am)
 
-I am a **dedicated cybersecurity learner and ethical hacking enthusiast** with hands-on experience in **penetration testing, secure full-stack development, AI-based security systems, and blockchain technologies**.
+I am a **passionate Ethical Hacker and Cybersecurity learner** with strong hands-on experience in **penetration testing, secure full-stack development, AI-powered security systems, and blockchain technologies**.
 
-I strongly believe that **security is the foundation of modern technology**, not an afterthought.
+I believe **security is not optional** — it is the foundation of every modern application.
 That’s why I combine:
 
 * 💻 **Development** → to build systems
 * 🔐 **Security** → to protect systems
-* 🤖 **AI** → to automate & detect threats
-* ⛓️ **Blockchain** → to ensure trust & integrity
+* 🤖 **AI** → to detect & automate threat analysis
+* ⛓️ **Blockchain** → to ensure trust & immutability
 
 ### 🔎 My Focus
 
 * 🔐 Breaking systems **ethically** to secure them
-* 🧠 Using **AI** for anomaly & threat detection
-* ⛓️ Leveraging **Blockchain** for decentralized trust
+* 🧠 Using **AI** for anomaly & intrusion detection
+* ⛓️ Building **decentralized & tamper-proof systems**
 
 ---
 
-## 🎯 Core Domains (A–Z Overview)
+## 🎯 Core Domains (A–Z)
 
 ### 🔐 Cybersecurity & Ethical Hacking
 
 * Network Security & Traffic Analysis
-* Web Application Security (OWASP mindset)
+* Web Application Security (OWASP)
 * Vulnerability Assessment & Penetration Testing
 * System Hardening & Incident Response
 
 ### 🌐 Full-Stack Development
 
 * Secure Frontend & Backend Architecture
-* Authentication & Authorization (JWT, RBAC concepts)
+* Authentication & Authorization
 * API Security & Scalable Web Systems
 
 ### 🤖 AI & Machine Learning
 
 * AI-based threat detection
 * Intelligent automation
-* Security analytics & pattern recognition
+* Security analytics
 
 ### ⛓️ Blockchain & Web3
 
 * Smart Contracts
 * Decentralized Identity (KYC)
-* Web3 security & trustless systems
+* Web3 Security
 
 ---
 
-## 🛡️ Ethical Hacking Roadmap (A–Z Explained)
+## 🛡️ Ethical Hacking Roadmap (Explained)
 
 ### 🕵️ Reconnaissance
 
-*Understand the target before touching it*
-
-* Information gathering (OSINT)
+* OSINT & information gathering
 * DNS & IP enumeration
 * Network mapping
 
 ### 🔍 Scanning & Enumeration
-
-*Discover what is exposed*
 
 * Port scanning
 * Service & version detection
@@ -91,16 +88,12 @@ That’s why I combine:
 
 ### 🚪 Exploitation
 
-*Test vulnerabilities ethically*
-
 * SQL Injection (SQLi)
-* Cross-Site Scripting (XSS)
-* CSRF & authentication bypass
+* XSS / CSRF
+* Authentication bypass
 * Misconfiguration attacks
 
 ### 🔐 Post-Exploitation
-
-*Measure real-world impact*
 
 * Privilege escalation
 * Persistence analysis
@@ -108,17 +101,15 @@ That’s why I combine:
 
 ### 🛠️ Defense & Hardening
 
-*Secure the system permanently*
-
 * Firewall configuration
 * Secure coding practices
-* Incident response planning
+* Incident response
 
 ---
 
 ## 🧰 Cybersecurity & Hacking Tools
 
-### 🔐 Network & Recon Tools
+### 🔐 Network & Recon
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 ![Zenmap](https://img.shields.io/badge/Zenmap-black?style=for-the-badge)
@@ -129,34 +120,45 @@ That’s why I combine:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 
-> 🧠 These tools help me **analyze traffic, detect anomalies, scan networks, and strengthen system security**.
-
 ---
 
-## 💻 Programming & Development
+## 💻 Programming & Development Stack
 
 ### 🧑‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
 
-## 🌐 Frontend & Backend
+## 🌐 Frontend Technologies
 
-### 🎨 Frontend
-
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-### ⚙️ Backend
+---
 
+## ⚙️ Backend Technologies
+
+![Python](https://img.shields.io/badge/Python_Backend-blue?style=for-the-badge\&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+---
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
 
 ---
 
@@ -169,9 +171,16 @@ That’s why I combine:
 
 ---
 
-## 🔭 Major Projects (Mission Log)
+## 🔭 Major & Popular Projects
 
-### 🚑 **TechBuddy – AI-Powered Healthcare Diagnostic App**
+### 🔥 **AI-Powered Firewall (Popular Repository)**
+
+* Real-time anomaly detection
+* AI-based traffic analysis
+* Blockchain-logged security events
+* **Focus:** Network defense & intrusion prevention
+
+### 🚑 **TechBuddy – AI Healthcare Diagnostic App**
 
 * AI-based real-time diagnosis
 * Secure handling of sensitive health data
@@ -180,17 +189,12 @@ That’s why I combine:
 ### 🔐 **Password Strength Checker (AI-Enhanced)**
 
 * AI-based password evaluation
-* Helps prevent brute-force attacks
+* Prevents brute-force & weak credentials
 
 ### 🆔 **Blockchain-Based Decentralized KYC**
 
 * Smart-contract identity system
-* Removes centralized data risks
-
-### 🛡️ **AI-Powered Firewall**
-
-* Real-time anomaly detection
-* Blockchain-logged security events
+* Eliminates centralized data risk
 
 ---
 
@@ -203,13 +207,17 @@ That’s why I combine:
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Research
 
-* 🥇 ISOA Certified
-* 📜 Simplilearn – SQL, Cybersecurity, Rust
-* 📜 Great Learning – Java, Python, C
-* 🧠 HackerRank – Java
-* 🚀 Infosys Ideathon Participant
+* 🥇 **ISOA Certified**
+* 📜 **Google Cybersecurity Professional Certificate**
+* 📜 **Coursera – Cybersecurity & Ethical Hacking Courses**
+* 📜 **CPPS Certification**
+* 📜 **Simplilearn – SQL, Cybersecurity, Rust**
+* 📜 **Great Learning – Java, Python, C**
+* 🧠 **HackerRank – Java**
+* 🧪 **Research Paper Published** (Cybersecurity / Network Security domain)
+* 🚀 **Infosys Ideathon Participant**
 
 ---
 
@@ -217,7 +225,7 @@ That’s why I combine:
 
 > **Learn → Break → Secure → Build → Repeat**
 > Ethical hacking is not about attacking systems —
-> it’s about **protecting people, data, and trust**.
+> it’s about **protecting people, data, and digital trust**.
 
 ---
 
@@ -227,3 +235,6 @@ That’s why I combine:
 🔗 LinkedIn: **Neeraj Upadhayay**
 💻 GitHub: **@Neerajupadhayay2004**
 
+
+
+Just say **NEXT 🔥**
