@@ -1,112 +1,159 @@
-# 👋 Hi, I’m Neeraj Upadhayay (@Neerajupadhayay2004)
+# 👋 Hi, I’m **Neeraj Upadhayay** (@Neerajupadhayay2004)
 
-## 💡 About Me
-
-I'm a passionate and driven **Cybersecurity Enthusiast**, **Full-Stack Developer**, and **AI & Blockchain Explorer** currently pursuing my degree at **IILM University**. I enjoy building tech that solves real-world problems — especially in the areas of **healthcare**, **security**, and **decentralized systems**.
+🚀 **Cybersecurity Enthusiast | Full-Stack Developer | AI & Blockchain Explorer**
+🎓 Student at **IILM University**
 
 ---
 
-## 👀 Interests
+## 💡 About Me
 
-- Cybersecurity & Ethical Hacking  
-- Full-Stack Web Development  
-- Artificial Intelligence & Machine Learning  
-- Blockchain & Decentralized Applications (Web3)  
+I am a motivated and detail-oriented **Cybersecurity Enthusiast and Full-Stack Developer** with a strong interest in **Artificial Intelligence, Blockchain (Web3), and secure system design**.
+
+I enjoy building **secure, scalable, and intelligent applications** that solve real-world problems—especially in **healthcare, cybersecurity, and decentralized technologies**. I believe in continuous learning, hands-on experimentation, and contributing to meaningful tech solutions.
+
+---
+
+## 🔍 Core Interests
+
+* Cybersecurity & Ethical Hacking
+* Full-Stack Web Development
+* Artificial Intelligence & Machine Learning
+* Blockchain, Web3 & Decentralized Applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Cybersecurity Techniques (Wireshark, Zenmap, Kismet, etc.)  
-- Full-Stack Development with MERN Stack  
-- Building Blockchain-Based KYC & DApps  
-- AI Model Integration in Web Applications  
+* Advanced cybersecurity tools & traffic analysis
+* MERN Stack for scalable applications
+* Smart contracts & decentralized identity (KYC systems)
+* AI-powered security and automation systems
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 🤝 Open for Collaboration
 
-- Open-source security & AI projects  
-- Web3 innovations and blockchain apps  
-- Tech-driven healthcare solutions  
-- Cross-platform full-stack systems  
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: neerajupadhayay347@gmail.com  
-- 🔗 LinkedIn: [Neeraj Upadhayay](https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246)  
-- 💻 GitHub: [github.com/Neerajupadhayay2004](https://github.com/Neerajupadhayay2004)  
+* Open-source **AI & Cybersecurity projects**
+* **Blockchain / Web3** platforms & DApps
+* **Healthcare-tech** solutions
+* End-to-end **full-stack systems**
 
 ---
 
-## 🏆 Certifications & Memberships
+## 📫 Connect With Me
 
-- ✅ ISOA Certified  
-- ✅ Simplilearn (SQL, Cybersecurity, Rust)  
-- ✅ Great Learning (Java, Python, C)  
-- ✅ HackerRank (Java)  
-- ✅ Infosys Ideathon Participant  
+* 📧 **Email:** [neerajupadhayay347@gmail.com](mailto:neerajupadhayay347@gmail.com)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246](https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246)
+* 💻 **GitHub:** [https://github.com/Neerajupadhayay2004](https://github.com/Neerajupadhayay2004)
 
 ---
 
-## ⚡ Fun Fact
+## 🏆 Certifications & Achievements
 
-> I love building smart, AI-powered apps, exploring new technologies, and turning ideas into impactful digital solutions. Always curious. Always coding.
+* ISOA Certified
+* Simplilearn – SQL, Cybersecurity, Rust
+* Great Learning – Java, Python, C
+* HackerRank – Java
+* Infosys Ideathon Participant
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript, Rust, SQL, HTML, CSS, C  
-- **Frontend:** React.js, HTML/CSS/JS  
-- **Backend:** Flask, Django, Node.js  
-- **AI/ML:** TensorFlow, Scikit-learn  
-- **Cybersecurity:** Wireshark, Zenmap, Kismet, Cloner Tools, etc. 
-- **Databases:** MySQL, MongoDB, SQLite  
-- **Tools:** Kali Linux, Git, Docker, VS Code, Pycharm  
+**Languages:**
+`Python` `Java` `JavaScript` `Rust` `SQL` `HTML` `CSS` `C`
+
+**Frontend:**
+`React.js` `Tailwind CSS` `HTML` `CSS`
+
+**Backend:**
+`Flask` `Django` `Node.js`
+
+**AI / ML:**
+`TensorFlow` `Scikit-learn`
+
+**Cybersecurity Tools:**
+`Wireshark` `Zenmap` `Kismet`
+
+**Databases:**
+`MySQL` `MongoDB` `SQLite`
+
+**Tools & Platforms:**
+`Kali Linux` `Git` `Docker` `VS Code` `PyCharm`
 
 ---
 
-## 🔭 Projects
+## 🔭 Featured Projects
 
-### 🚑 AI-Powered Healthcare Diagnostic App – **TechBuddy**
-- Uses AI for real-time diagnosis, quick assessments, and affordable care.
-- Built with Flask, TensorFlow, and React.
-- Role: Full-Stack Developer & Team Lead.
+### 🚑 **TechBuddy – AI-Powered Healthcare Diagnostic App**
 
-### 🔐 Password Strength Checker with Gamma AI
-- Uses AI logic to assess password strength and suggest improvements.
-- Integrated via Python, Regex, and AI scoring logic.
+* AI-based real-time diagnosis and health assessment
+* Flask, TensorFlow, React
+* **Role:** Full-Stack Developer & Team Lead
 
-### 🆔 Blockchain-Based Decentralized KYC System
-- A secure, smart-contract-based identity system.
-- Tech used: Solidity, Web3.js, Ethereum Testnet.
+### 🔐 **Password Strength Checker (AI-Enhanced)**
 
-### 🌦️ Weather App
-- Real-time weather updates using the OpenWeather API.
-- Built using React.js and Tailwind CSS.
+* Intelligent password evaluation with improvement suggestions
+* Python, Regex, AI logic
 
-### 🛒 EasyShop – E-Commerce Website
-- Simple and elegant online shopping interface.
-- HTML, CSS, JavaScript + LocalStorage for cart data.
+### 🆔 **Blockchain-Based Decentralized KYC System**
 
-### ✅ To-Do List App
-- Add, edit, and delete tasks with persistent storage.
-- Built using HTML, CSS, and vanilla JS.
+* Secure digital identity using smart contracts
+* Solidity, Web3.js, Ethereum Testnet
 
-### 🎮 Games Collection
-- Tic-Tac-Toe, Chess, and Guess the Number.
-- Built using JavaScript and Python for logic practice.
+### 🌦️ **Weather Application**
+
+* Real-time weather data using OpenWeather API
+* React.js & Tailwind CSS
+
+### 🛒 **EasyShop – E-Commerce Website**
+
+* Cart system with LocalStorage
+* HTML, CSS, JavaScript
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats (Advanced)
 
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=compact&theme=radical)
+### 🚀 Overall Performance
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004\&show_icons=true\&theme=radical\&hide_border=true)
 
 ---
 
-> 💬 *Feel free to reach out for collaboration, projects, or even a quick chat about technology!*
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Neerajupadhayay2004\&theme=radical\&hide_border=true)
+
+---
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004\&layout=compact\&theme=radical\&hide_border=true)
+
+---
+
+### 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neerajupadhayay2004\&theme=radical\&no-frame=true\&row=1)
+
+---
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neerajupadhayay2004\&theme=redical)
+
+---
+
+## ⚡ Fun Fact
+
+> I love building AI-powered security systems, exploring new technologies, and converting ideas into impactful digital solutions.
+> **Always learning. Always building.**
+
+---
+
+### 💬 Let’s Collaborate
+
+If you’re interested in **AI, cybersecurity, blockchain, or full-stack development**, feel free to connect.
+I’m always open to collaborations, research, and innovative ideas 🚀
+
