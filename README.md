@@ -1,117 +1,135 @@
+## 🖥️ Visual Identity (Ethical Hacker Domain)
 
-![Image](https://innovationatwork.ieee.org/wp-content/uploads/2022/06/bigstock-Certified-Ethical-Hacker-Ceh-416158993_1024X684.png)
+![Image](https://www.intellectualpoint.com/wp-content/uploads/2021/01/CHE-V11.jpg)
 
-![Image](https://media.geeksforgeeks.org/wp-content/uploads/20200707054135/whatweb.png)
+![Image](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/web-application-firewall.png)
 
 ![Image](https://www.wireshark.org/docs/wsug_html_chunked/images/ws-main.png)
 
-![Image](https://www.techtarget.com/rms/onlineimages/screenshot_tutorial_wireshark_oui_console-f_mobile.jpg)
+![Image](https://networkproguide.com/wp-content/uploads/diagram-wireshark-working-user-interface-ui.png)
 
-![Image](https://m.media-amazon.com/images/I/81wiN8if1NL._UF1000%2C1000_QL80_.jpg)
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20220825131329/mainwindow.jpg)
+
+---
 
 # 👋 Hi, I’m **Neeraj Upadhayay** (@Neerajupadhayay2004)
 
 🚀 **Cybersecurity & Ethical Hacking Enthusiast | Full-Stack Developer | AI & Blockchain Explorer**
 🎓 Student at **IILM University**
-💻 Kali Linux Power User | Open-Source Contributor
+💻 **Kali Linux Power User** | Open-Source Contributor
 
-> 🔐 Building **secure**, 🤖 **intelligent**, and 🌍 **scalable** systems — from **network security to Web3 & AI-driven defense**.
+> 🔐 Building **secure**, 🤖 **intelligent**, and 🌍 **scalable systems** — from **network security to Web3 & AI-driven defense**.
 
 ---
 
 ## 🧠 About Me (Who I Am)
 
-I am a **passionate cybersecurity learner and full-stack developer** with deep interest in **ethical hacking, penetration testing, AI-powered security, and blockchain systems**.
+I am a **dedicated cybersecurity learner and ethical hacking enthusiast** with hands-on experience in **penetration testing, secure full-stack development, AI-based security systems, and blockchain technologies**.
 
-I strongly believe that **security is not optional** — it is the foundation of every modern application.
-That’s why I combine **development + security + AI** to build **real-world, future-ready solutions**.
+I strongly believe that **security is the foundation of modern technology**, not an afterthought.
+That’s why I combine:
 
-I focus on:
+* 💻 **Development** → to build systems
+* 🔐 **Security** → to protect systems
+* 🤖 **AI** → to automate & detect threats
+* ⛓️ **Blockchain** → to ensure trust & integrity
+
+### 🔎 My Focus
 
 * 🔐 Breaking systems **ethically** to secure them
-* 🧠 Using **AI** to detect threats
-* ⛓️ Leveraging **Blockchain** for trust & transparency
+* 🧠 Using **AI** for anomaly & threat detection
+* ⛓️ Leveraging **Blockchain** for decentralized trust
 
 ---
 
-## 🎯 Core Domains (A–Z)
+## 🎯 Core Domains (A–Z Overview)
 
-### 🔐 CYBERSECURITY & ETHICAL HACKING
+### 🔐 Cybersecurity & Ethical Hacking
 
-* Network Security
-* Web Application Security
-* System Hardening
-* Vulnerability Assessment
-* Penetration Testing
-* Ethical Hacking Methodologies
+* Network Security & Traffic Analysis
+* Web Application Security (OWASP mindset)
+* Vulnerability Assessment & Penetration Testing
+* System Hardening & Incident Response
 
-### 🌐 FULL-STACK DEVELOPMENT
+### 🌐 Full-Stack Development
 
-* Secure Frontend & Backend Systems
-* API Security
-* Authentication & Authorization
-* Scalable Web Architectures
+* Secure Frontend & Backend Architecture
+* Authentication & Authorization (JWT, RBAC concepts)
+* API Security & Scalable Web Systems
 
-### 🤖 AI & MACHINE LEARNING
+### 🤖 AI & Machine Learning
 
 * AI-based threat detection
 * Intelligent automation
-* Security analytics
+* Security analytics & pattern recognition
 
-### ⛓️ BLOCKCHAIN & WEB3
+### ⛓️ Blockchain & Web3
 
 * Smart Contracts
 * Decentralized Identity (KYC)
-* Web3 Security
+* Web3 security & trustless systems
 
 ---
 
-## 🛡️ Ethical Hacking Roadmap (A–Z)
+## 🛡️ Ethical Hacking Roadmap (A–Z Explained)
 
 ### 🕵️ Reconnaissance
 
-* Information Gathering
-* DNS Enumeration
-* Network Scanning
+*Understand the target before touching it*
+
+* Information gathering (OSINT)
+* DNS & IP enumeration
+* Network mapping
 
 ### 🔍 Scanning & Enumeration
 
-* Port Scanning
-* Service Enumeration
-* OS Fingerprinting
+*Discover what is exposed*
+
+* Port scanning
+* Service & version detection
+* OS fingerprinting
 
 ### 🚪 Exploitation
 
-* Web Vulnerabilities (SQLi, XSS, CSRF)
-* Authentication Bypass
-* Misconfiguration Attacks
+*Test vulnerabilities ethically*
+
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* CSRF & authentication bypass
+* Misconfiguration attacks
 
 ### 🔐 Post-Exploitation
 
-* Privilege Escalation
-* Persistence Techniques
-* Log Analysis
+*Measure real-world impact*
+
+* Privilege escalation
+* Persistence analysis
+* Log & trace inspection
 
 ### 🛠️ Defense & Hardening
 
-* Firewall Configuration
-* Secure Coding Practices
-* Incident Response
+*Secure the system permanently*
+
+* Firewall configuration
+* Secure coding practices
+* Incident response planning
 
 ---
 
 ## 🧰 Cybersecurity & Hacking Tools
 
-### 🔐 Network & Recon
+### 🔐 Network & Recon Tools
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 ![Zenmap](https://img.shields.io/badge/Zenmap-black?style=for-the-badge)
 ![Kismet](https://img.shields.io/badge/Kismet-5C2D91?style=for-the-badge)
 
-### 🧠 Security Analysis
+### 🧠 Security Platforms
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
+> 🧠 These tools help me **analyze traffic, detect anomalies, scan networks, and strengthen system security**.
 
 ---
 
@@ -142,37 +160,32 @@ I focus on:
 
 ---
 
-## 🤖 AI / ML Stack
+## 🤖 AI / ML & ⛓️ Blockchain
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
 ![Scikit](https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge)
-
----
-
-## ⛓️ Blockchain & Web3
-
 ![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge\&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-gray?style=for-the-badge)
 
 ---
 
-## 🔭 Major Projects
+## 🔭 Major Projects (Mission Log)
 
 ### 🚑 **TechBuddy – AI-Powered Healthcare Diagnostic App**
 
 * AI-based real-time diagnosis
-* Secure data handling
+* Secure handling of sensitive health data
 * **Role:** Full-Stack Developer & Team Lead
 
 ### 🔐 **Password Strength Checker (AI-Enhanced)**
 
 * AI-based password evaluation
-* Security-focused logic
+* Helps prevent brute-force attacks
 
 ### 🆔 **Blockchain-Based Decentralized KYC**
 
 * Smart-contract identity system
-* Eliminates centralized risk
+* Removes centralized data risks
 
 ### 🛡️ **AI-Powered Firewall**
 
@@ -181,7 +194,7 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats & Graphs
+## 📊 GitHub Stats & Activity
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004\&show_icons=true\&theme=radical\&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=Neerajupadhayay2004\&theme=radical\&hide_border=true)
@@ -196,15 +209,15 @@ I focus on:
 * 📜 Simplilearn – SQL, Cybersecurity, Rust
 * 📜 Great Learning – Java, Python, C
 * 🧠 HackerRank – Java
-* 🚀 Infosys Ideathon
+* 🚀 Infosys Ideathon Participant
 
 ---
 
-## ⚡ Mindset
+## ⚡ Ethical Hacker Mindset
 
 > **Learn → Break → Secure → Build → Repeat**
 > Ethical hacking is not about attacking systems —
-> it’s about **protecting people and data**.
+> it’s about **protecting people, data, and trust**.
 
 ---
 
@@ -214,7 +227,3 @@ I focus on:
 🔗 LinkedIn: **Neeraj Upadhayay**
 💻 GitHub: **@Neerajupadhayay2004**
 
----
-
-
-Just say **GO 🔥**
