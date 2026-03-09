@@ -177,15 +177,65 @@ System secured.
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeraj29118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj29118&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
+# 🔥 Coding Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Neeraj29118&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj29118&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neeraj29118&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 👁 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Neeraj29118&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 # 🔥 GitHub Streak
 
