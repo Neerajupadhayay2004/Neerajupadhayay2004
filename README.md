@@ -7,9 +7,19 @@
 </p>
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neeraj.har)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajupadhayay347@gmail.com)
+<img src="https://images.openai.com/static-rsc-3/GcReWgnRpny4W73NJ1c_ztWh_VWCCXutluW75rPG_dREjp-HE5j8QXlazCH6Ntw1-6ttvCtW0zMl3oyk5OSBJg3JO9ul5_kRg0ijQ6MD-Fs?purpose=fullsize&v=1" width="49%"/>
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20251014/pngtree-futuristic-control-room-cybersecurity-command-center-operation-image_19868052.webp" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://www.orangecyberdefense.com/fileadmin/_processed_/6/f/csm_e5ted1ixo8291_36e0ed3429.webp" width="49%"/>
+<img src="https://images.presentationgo.com/2025/05/cybersecurity-hacker-darkroom.jpg" width="49%"/>
+</p>
+
+<p align="center">
+<a href="https://instagram.com/neeraj.har"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:neerajupadhayay347@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
