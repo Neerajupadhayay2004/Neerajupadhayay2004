@@ -1,9 +1,7 @@
-
-
 ## 🎬 HEADER WITH ANIMATION
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20ETHICAL%20HACKER%20%7C%20AI%20SECURITY%20ENGINEER&descSize=25&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20ETHICAL%20HACKER%20%7C%20AI%20SECURITY%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=25&descAlignY=75"/>
 </p>
 
 <p align="center">
@@ -80,12 +78,6 @@ Connection to kali closed.
 ---
 
 ## 👤 ABOUT ME
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
-</p>
 
 ### 🧑‍💻 Who Am I?
 
@@ -172,12 +164,6 @@ print(f"🎯 Mission: {me.mission}")
 
 ## 💻 COMPLETE TECH STACK
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</p>
-
 ### 🐍 Programming Languages
 
 <p align="center">
@@ -220,10 +206,6 @@ print(f"🎯 Mission: {me.mission}")
 
 ### 🛡️ AI-Powered Universal Firewall
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3og0IxgM1XyoN1XGoU/giphy.gif" alt="Firewall Animation" width="600"/>
-</p>
-
 **Features:**
 - 🤖 ML-based Anomaly Detection
 - 📊 Real-time Traffic Monitoring
@@ -233,13 +215,24 @@ print(f"🎯 Mission: {me.mission}")
 
 **Tech Stack:** Python, TensorFlow, FastAPI, Docker, Redis
 
+```python
+class AIPoweredFirewall:
+    def __init__(self):
+        self.name = "AI-Powered Universal Firewall"
+        self.tech_stack = ["Python", "TensorFlow", "FastAPI", "Docker", "Redis"]
+        self.features = {
+            "anomaly_detection": "ML-based traffic pattern analysis",
+            "real_time_monitoring": "Live traffic visualization",
+            "automated_response": "Instant threat mitigation",
+            "blockchain_logs": "Immutable security event logging"
+        }
+        self.status = "🟢 Active - v3.2.1"
+        self.github = "https://github.com/Neerajupadhayay2004/ai-firewall"
+```
+
 ---
 
 ### 🏥 TechBuddy AI Healthcare
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Healthcare AI" width="600"/>
-</p>
 
 **Features:**
 - 🩺 AI Symptom Analysis
@@ -250,13 +243,24 @@ print(f"🎯 Mission: {me.mission}")
 
 **Tech Stack:** React, Node.js, Python, MongoDB, TensorFlow
 
+```python
+class TechBuddyAI:
+    def __init__(self):
+        self.name = "TechBuddy AI Healthcare System"
+        self.tech_stack = ["React", "Node.js", "Python", "MongoDB", "TensorFlow"]
+        self.features = {
+            "ai_diagnosis": "Symptom-based health assessment",
+            "secure_storage": "End-to-end encrypted health records",
+            "patient_dashboard": "Real-time health monitoring",
+            "ai_chatbot": "24/7 health assistance"
+        }
+        self.status = "🟢 Active - v2.5.0"
+        self.github = "https://github.com/Neerajupadhayay2004/techbuddy-ai"
+```
+
 ---
 
 ### 🔐 Password Strength Analyzer
-
-<p align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Password Security" width="600"/>
-</p>
 
 **Features:**
 - 🧠 AI-based Strength Scoring
@@ -267,13 +271,24 @@ print(f"🎯 Mission: {me.mission}")
 
 **Tech Stack:** Python, Flask, JavaScript, HTML/CSS
 
+```python
+class PasswordAnalyzer:
+    def __init__(self):
+        self.name = "Password Strength Analyzer"
+        self.tech_stack = ["Python", "Flask", "JavaScript", "HTML/CSS"]
+        self.features = {
+            "strength_scoring": "AI-based password evaluation",
+            "brute_force_simulation": "Attack simulation testing",
+            "password_generator": "Secure random password creator",
+            "breach_check": "Check against known breaches"
+        }
+        self.status = "🟢 Active - v4.0.0"
+        self.github = "https://github.com/Neerajupadhayay2004/password-analyzer"
+```
+
 ---
 
 ### ⛓️ Blockchain KYC System
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Blockchain" width="600"/>
-</p>
 
 **Features:**
 - 🆔 Decentralized Identity
@@ -283,6 +298,21 @@ print(f"🎯 Mission: {me.mission}")
 - 🌐 Cross-Chain Compatibility
 
 **Tech Stack:** Solidity, Ethereum, Web3.js, React, Node.js
+
+```python
+class BlockchainKYC:
+    def __init__(self):
+        self.name = "Blockchain KYC Verification System"
+        self.tech_stack = ["Solidity", "Ethereum", "Web3.js", "React", "Node.js"]
+        self.features = {
+            "decentralized_identity": "Self-sovereign identity management",
+            "smart_contracts": "Automated verification logic",
+            "zero_knowledge_proofs": "Privacy-preserving verification",
+            "audit_trail": "Immutable verification history"
+        }
+        self.status = "🟡 In Development - v0.9.0"
+        self.github = "https://github.com/Neerajupadhayay2004/blockchain-kyc"
+```
 
 ---
 
@@ -333,21 +363,21 @@ print(f"🎯 Mission: {me.mission}")
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" width="80%"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product%2C%20it's%20a%20process&author=Bruce%20Schneier" width="80%"/>
+</p>
+
 ---
 
-## 🔥 HACKER MOTIVATION GIFS
+## 🔥 HACKER MOTIVATION
 
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-</p>
+### 💀 "Think Like An Attacker"
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3og0IxgM1XyoN1XGoU/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="300"/>
-</p>
+### 🎯 "Security is a mindset, not a tool"
+
+### ⚡ "Your system is only as secure as your weakest link"
+
+### 🖤 "The only way to win is to think like an attacker"
 
 ---
 
@@ -407,6 +437,7 @@ print(f"🎯 Mission: {me.mission}")
 
 **⭐ If you like this profile, consider giving it a star!**
 
----
 
-*Last Updated: Januar load automatically. All stats are generated by GitHub APIs and will update based on your activity.
+5. Your profile will update automatically!
+
+**Note:** All images, badges, and stats will load automatically from their respective sources. The profile is fully responsive and works on all devices.
