@@ -1,232 +1,414 @@
-<div align="center">
+# 🖤 THE ULTIMATE HACKER'S GITHUB PROFILE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff41&height=220&section=header&text=NEERAJ%20UPADHAYAY&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38"/>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF41&size=26&center=true&vCenter=true&width=800&lines=root%40kali%3A~%23+whoami;Cybersecurity+Engineer+%7C+Ethical+Hacker;AI+%2B+Security+Systems+Builder;Full+Stack+%2B+Blockchain+Developer"/>
+## 🎬 HEADER WITH ANIMATION
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20ETHICAL%20HACKER%20%7C%20AI%20SECURITY%20ENGINEER&descSize=25&descAlignY=75"/>
+</p>
 
-<img src="https://images.openai.com/static-rsc-3/GcReWgnRpny4W73NJ1c_ztWh_VWCCXutluW75rPG_dREjp-HE5j8QXlazCH6Ntw1-6ttvCtW0zMl3oyk5OSBJg3JO9ul5_kRg0ijQ6MD-Fs?purpose=fullsize&v=1" width="100%" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=40&center=true&vCenter=true&width=1100&height=80&lines=HACK+THE+PLANET+🖤;WELCOME+TO+MY+DIGITAL+FORTRESS;ETHICAL+HACKER+%7C+AI+SECURITY+ARCHITECT;KALI+LINUX+MASTER+%7C+BUG+BOUNTY+HUNTER;BLOCKCHAIN+SECURITY+EXPLORER;FULL+STACK+DEVELOPER+%F0%9F%92%BB"/>
+</p>
 
-<br/><br/>
+---
 
-<a href="https://instagram.com/neeraj.har"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:neerajupadhayay347@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Neerajupadhayay2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+## 📊 LIVE STATUS DASHBOARD
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neerajupadhayay2004&style=for-the-badge&color=00ff00&label=🛡️+HACKERS+VISITED&base=1000"/>
+  <img src="https://img.shields.io/github/followers/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👥+FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=⭐+TOTAL+STARS"/>
+  <img src="https://img.shields.io/github/watchers/Neerajupadhayay2004/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👀+WATCHERS"/>
+</p>
 
-<br/>
+---
 
-## 🖤 root@neeraj:~# cat about.txt
-
-```yaml
-name:      Neeraj Upadhayay
-role:      Cybersecurity Engineer | Ethical Hacker | AI Security Builder
-education: B.Tech CSE (Cybersecurity), Final Year
-location:  Buxar, Bihar, India
-
-focus:
-  - AI-powered security & threat detection
-  - OSINT & profile intelligence
-  - Backend development & automation
-  - Blockchain security
-
-mission: >
-  Building intelligent systems that are secure,
-  scalable, and impactful.
-```
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Core Domains
-
-- 🔐 Ethical Hacking
-- 🌐 Web Security (OWASP Top 10)
-- 🛰️ Network Security
-- ⚙️ Secure Software Development
-- 🤖 AI Threat Detection
-- ⛓️ Blockchain Security
-- 🕵️ OSINT & Profile Intelligence
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Hacker Terminal
+## 💀 HACKER TERMINAL
 
 ```bash
-root@kali:~# status
-[+] Scanning vulnerabilities...
-[+] Analyzing threat surface...
-[+] Deploying firewall rules...
-[✔] System secured.
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  ██████╗  ██████╗  ██████╗ ████████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗  │
+│  ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝  │
+│  ██████╔╝██║   ██║██████╔╝   ██║       ███████║███████║██║     █████╔╝   │
+│  ██╔══██╗██║   ██║██╔══██╗   ██║       ██╔══██║██╔══██║██║     ██╔═██╗   │
+│  ██║  ██║╚██████╔╝██║  ██║   ██║       ██║  ██║██║  ██║╚██████╗██║  ██╗  │
+│  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  │
+│                                                                             │
+│  🔐 CYBERSECURITY ENGINEER  •  🎯 BUG BOUNTY HUNTER  •  🧠 AI DEVELOPER    │
+│  ⚡ KALI LINUX  •  🐍 PYTHON  •  ☕ JAVA  •  🦀 RUST  •  🐹 GO            │
+│  🌐 FULL STACK  •  ⛓️ BLOCKCHAIN  •  🤖 MACHINE LEARNING                   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+root@kali:~# whoami
+neeraj_upadhayay
+
+root@kali:~# uname -a
+Linux kali 6.8.0-amd64 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
+HACKER MODE: ACTIVE
+
+root@kali:~# neofetch
+OS: Kali Linux x86_64
+Host: Acer Predator
+Kernel: 6.8.0-amd64
+Uptime: 1337 days
+Packages: 4200 (dpkg)
+Shell: zsh 5.9
+Resolution: 1920x1080
+DE: GNOME
+WM: Mutter
+Theme: Hacker-Green [GTK2/3]
+Icons: Hacker-Icons [GTK2/3]
+Terminal: gnome-terminal
+CPU: Intel i7-13th Gen (16) @ 4.8GHz
+GPU: NVIDIA GeForce RTX 4060
+Memory: 32000MiB
+
+root@kali:~# ps aux | grep neeraj
+neeraj    1337  0.0  0.1 1337 4200 ?        S    00:00   0:00 /usr/bin/ethical_hacker
+neeraj    1338  0.0  0.1 1338 4201 ?        S    00:00   0:00 /usr/bin/bug_bounty_hunter
+neeraj    1339  0.0  0.1 1339 4202 ?        S    00:00   0:00 /usr/bin/ai_security_dev
+neeraj    1340  0.0  0.1 1340 4203 ?        S    00:00   0:00 /usr/bin/full_stack_dev
+
+root@kali:~# exit
+logout
+
+Connection to kali closed.
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 👤 ABOUT ME
 
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20251014/pngtree-futuristic-control-room-cybersecurity-command-center-operation-image_19868052.webp" width="100%" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+</p>
 
-<br/>
+### 🧑‍💻 Who Am I?
 
-## 🛠️ Cybersecurity Toolkit
+```python
+class NeerajUpadhayay:
+    def __init__(self):
+        self.name = "Neeraj Upadhayay"
+        self.alias = "Black Hat"
+        self.location = "Buxar, Bihar, India 🇮🇳"
+        self.education = "B.Tech CSE (Cybersecurity) - Final Year"
+        self.role = "Cybersecurity Engineer & AI Security Developer"
+        self.mission = "Securing the digital world one vulnerability at a time"
+        self.motto = "Hack the Planet 🖤"
+        self.interests = [
+            "🔐 Cybersecurity & Ethical Hacking",
+            "🤖 Artificial Intelligence & Machine Learning",
+            "⛓️ Blockchain Technology & Smart Contracts",
+            "🌐 Full Stack Web Development",
+            "📡 OSINT & Reconnaissance",
+            "☁️ Cloud Computing & DevOps"
+        ]
+    
+    def skills(self):
+        return {
+            "Cybersecurity": ["Penetration Testing", "Network Security", "Web Security", "Malware Analysis"],
+            "AI/ML": ["Deep Learning", "Computer Vision", "NLP", "Threat Detection"],
+            "Development": ["Python", "JavaScript", "Rust", "Go", "Solidity"],
+            "Tools": ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "Docker"]
+        }
 
-<div align="center">
+me = NeerajUpadhayay()
+print(f"👋 Hello, I'm {me.name}")
+print(f"🛡️ {me.role}")
+print(f"📍 {me.location}")
+print(f"🎯 Mission: {me.mission}")
+```
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kismet](https://img.shields.io/badge/Kismet-6A0DAD?style=for-the-badge)
-![Zenmap](https://img.shields.io/badge/Zenmap-2E2E2E?style=for-the-badge)
-![TOR](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white)
+---
 
-</div>
+## 🛡️ CYBERSECURITY TOOLKIT
 
-<br/>
+### 💻 Operating Systems
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-2E8B57?style=for-the-badge&logo=parrotsec&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+### 🔍 Reconnaissance Tools
 
-**Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maltego-FF69B4?style=for-the-badge&logo=maltego&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shodan-4B0082?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TheHarvester-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Zenmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+### 🌐 Web Security Tools
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=perl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeEF-FF0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+</p>
 
-**Frameworks & Frontend**
+### 💣 Exploitation Tools
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-4682B4?style=for-the-badge&logo=john-the-ripper&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-FF4500?style=for-the-badge&logo=hydra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AirCrack--ng-00FF00?style=for-the-badge&logo=aircrack-ng&logoColor=black"/>
+</p>
 
-</td>
-<td valign="top" width="33%">
+---
 
-**Data, Cloud & AI**
+## 💻 COMPLETE TECH STACK
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
-</td>
-</tr>
-</table>
+### 🐍 Programming Languages
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,rust,go,javascript,typescript,c,cpp,solidity,r,bash&perline=5"/>
+</p>
 
-## 🚀 Major Projects
+### 🖥️ Frontend Development
 
-<table align="center" width="100%">
-<tr>
-<th>Project</th>
-<th>Highlights</th>
-</tr>
-<tr>
-<td><b>🛡️ AI-Powered Universal Firewall</b><br/><sub>Cybersecurity Dashboard</sub></td>
-<td>AI-based anomaly detection · real-time traffic monitoring · blockchain-backed security logs</td>
-</tr>
-<tr>
-<td><b>🕵️ Profile Intelligence & OSINT Suite</b></td>
-<td>Automated OSINT gathering · threat detection systems</td>
-</tr>
-<tr>
-<td><b>🇮🇳 Smart Bharat</b><br/><sub>AI Civic Companion</sub></td>
-<td>AI-powered assistant for civic services & information</td>
-</tr>
-<tr>
-<td><b>💼 LinkedIn Job Automation</b></td>
-<td>Automated job search & application workflows</td>
-</tr>
-<tr>
-<td><b>🚑 TechBuddy AI Healthcare</b></td>
-<td>AI diagnosis assistant · secure healthcare data handling</td>
-</tr>
-<tr>
-<td><b>🔐 Password Strength Checker</b></td>
-<td>Weak password detection · brute-force protection logic</td>
-</tr>
-<tr>
-<td><b>🆔 Blockchain KYC System</b></td>
-<td>Decentralized identity · smart-contract-based verification</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,html,css,tailwind,bootstrap,figma&perline=4"/>
+</p>
 
-<br/>
+### ⚙️ Backend Development
 
-<img src="https://www.orangecyberdefense.com/fileadmin/_processed_/6/f/csm_e5ted1ixo8291_36e0ed3429.webp" width="100%" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring&perline=3"/>
+</p>
 
-<br/>
+### 🗄️ Databases
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis,elasticsearch&perline=4"/>
+</p>
 
-<div align="center">
+### ☁️ DevOps & Cloud
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,jenkins,githubactions&perline=4"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Neerajupadhayay2004&theme=highcontrast&hide_border=true&background=0d1117"/>
+### 🤖 AI & Machine Learning
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajupadhayay2004&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv,fastai,langchain&perline=3"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neerajupadhayay2004&theme=matrix&no-frame=true&margin-w=4&row=1"/>
+---
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+## 🚀 PROJECTS
 
-</div>
+### 🛡️ AI-Powered Universal Firewall
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0IxgM1XyoN1XGoU/giphy.gif" alt="Firewall Animation" width="600"/>
+</p>
 
-## 🧠 Hacker Mindset
+**Features:**
+- 🤖 ML-based Anomaly Detection
+- 📊 Real-time Traffic Monitoring
+- 🔄 Automated Threat Response
+- ⛓️ Blockchain Security Logs
+- 🎯 Predictive Threat Intelligence
 
-<div align="center">
+**Tech Stack:** Python, TensorFlow, FastAPI, Docker, Redis
 
-**`Recon`** → **`Scan`** → **`Exploit`** → **`Secure`** → **`Repeat`**
+---
 
-*Ethical hackers expose weaknesses before attackers exploit them.*
+### 🏥 TechBuddy AI Healthcare
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Healthcare AI" width="600"/>
+</p>
 
-<br/>
+**Features:**
+- 🩺 AI Symptom Analysis
+- 🔐 End-to-End Encryption
+- 📊 Patient Health Dashboard
+- 🤖 24/7 AI Chatbot
+- ⛓️ Immutable Medical Records
 
-## 📫 Connect With Me
+**Tech Stack:** React, Node.js, Python, MongoDB, TensorFlow
 
-<div align="center">
+---
 
-📧 [neerajupadhayay347@gmail.com](mailto:neerajupadhayay347@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246) · 💻 [GitHub](https://github.com/Neerajupadhayay2004) · 📸 [Instagram](https://instagram.com/neeraj.har)
+### 🔐 Password Strength Analyzer
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Password Security" width="600"/>
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=Neerajupadhayay2004&icon=0&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+**Features:**
+- 🧠 AI-based Strength Scoring
+- ⚡ Brute Force Simulation
+- 🔍 Breach Check Integration
+- 🎯 Custom Recommendations
+- 📊 Visual Analysis Dashboard
 
-</div>
+**Tech Stack:** Python, Flask, JavaScript, HTML/CSS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f2027&height=120&section=footer"/>
+---
+
+### ⛓️ Blockchain KYC System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Blockchain" width="600"/>
+</p>
+
+**Features:**
+- 🆔 Decentralized Identity
+- 🤝 Zero-Knowledge Proofs
+- 📜 Immutable Audit Trail
+- 🔒 Privacy-Preserving
+- 🌐 Cross-Chain Compatibility
+
+**Tech Stack:** Solidity, Ethereum, Web3.js, React, Node.js
+
+---
+
+## 📊 GITHUB STATISTICS
+
+### 🔥 Overall Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Neerajupadhayay2004&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="48%"/>
+</p>
+
+### 💻 Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" width="60%"/>
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajupadhayay2004&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&hide_border=true"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neerajupadhayay2004&theme=radical&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE GAME
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+## 🎯 HACKER QUOTES
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20world%20of%20cybersecurity%2C%20the%20only%20way%20to%20win%20is%20to%20think%20like%20an%20attacker&author=Neeraj%20Upadhayay" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" width="80%"/>
+</p>
+
+---
+
+## 🔥 HACKER MOTIVATION GIFS
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3og0IxgM1XyoN1XGoU/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 📫 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://linkedin.com/in/neeraj-upadhayay-2nd-a0958a246">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Neerajupadhayay2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:neerajupadhayay347@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/neeraj.har">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://mastodon.social/@Neeraj%20Upadhayay">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ SUPPORT MY WORK
+
+<p align="center">
+  <a href="https://patreon.com/Black%20Hat">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/neerajupadhayay">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://paypal.me/neerajupadhayay">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎮 FOOTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=200&section=footer"/>
+</p>
+
+<p align="center">
+  <b>🖤 Hack the Planet 🖤</b>
+</p>
+
+<p align="center">
+  <i>"Security is not a product, it's a process" - Bruce Schneier</i>
+</p>
+
+---
+
+**⭐ If you like this profile, consider giving it a star!**
+
+---
+
+*Last Updated: Januar load automatically. All stats are generated by GitHub APIs and will update based on your activity.
