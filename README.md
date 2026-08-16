@@ -1,37 +1,16 @@
-## 🎬 HEADER WITH MATRIX ANIMATION
+# 🌐 NEERAJ UPADHAYAY - THE HACKER'S PROFILE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20ETHICAL%20HACKER%20%7C%20AI%20SECURITY%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=25&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20CYBERSECURITY%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=25&descAlignY=75"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=40&center=true&vCenter=true&width=1100&height=80&lines=HACK+THE+PLANET+🖤;WELCOME+TO+MY+DIGITAL+FORTRESS;ETHICAL+HACKER+%7C+AI+SECURITY+ARCHITECT;KALI+LINUX+MASTER+%7C+BUG+BOUNTY+HUNTER;BLOCKCHAIN+SECURITY+EXPLORER;FULL+STACK+DEVELOPER+%F0%9F%92%BB;ZERO+DAY+EXPLOIT+HUNTER;CYBER+FORENSICS+EXPERT"/>
-</p>
-
----
-
-## 🎯 MATRIX RAIN ANIMATION
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=40&center=true&vCenter=true&width=1100&height=80&lines=🔐+SECURING+THE+DIGITAL+WORLD;🛡️+AI-POWERED+FIREWALL+ARCHITECT;🎯+BUG+BOUNTY+HUNTER;💻+FULL+STACK+DEVELOPER;⛓️+BLOCKCHAIN+SECURITY+EXPLORER;🤖+AI+%26+ML+ENGINEER;📡+OSINT+SPECIALIST;🔥+5x+HACKATHON+WINNER"/>
 </p>
 
 ---
 
-## 📊 LIVE STATUS DASHBOARD
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neerajupadhayay2004&style=for-the-badge&color=00ff00&label=🛡️+HACKERS+VISITED&base=1000"/>
-  <img src="https://img.shields.io/github/followers/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👥+FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=⭐+TOTAL+STARS"/>
-  <img src="https://img.shields.io/github/watchers/Neerajupadhayay2004/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👀+WATCHERS"/>
-  <img src="https://img.shields.io/github/sponsors/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=💰+SPONSORS"/>
-  <img src="https://img.shields.io/badge/BUG_BOUNTY-ACTIVE-00ff00?style=for-the-badge"/>
-</p>
-
----
-
-## 💀 HACKER TERMINAL WITH GLITCH EFFECT
+## 💀 TERMINAL STATUS
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=1000&height=30&lines=root@kali:~%23+_"/>
@@ -58,6 +37,7 @@
 │  ⚡ KALI LINUX  •  🐍 PYTHON  •  ☕ JAVA  •  🦀 RUST  •  🐹 GO                   │
 │  🌐 FULL STACK  •  ⛓️ BLOCKCHAIN  •  🤖 MACHINE LEARNING                         │
 │  🔍 OSINT SPECIALIST  •  📡 NETWORK SECURITY  •  ☁️ CLOUD ARCHITECT              │
+│  🔥 5x HACKATHON WINNER  •  📚 PUBLISHED RESEARCHER (SPRINGER NATURE)             │
 │                                                                                     │
 └─────────────────────────────────────────────────────────────────────────────────────┘
 
@@ -71,7 +51,7 @@ ROOT ACCESS: GRANTED
 
 root@kali:~# neofetch
 OS: Kali Linux x86_64
-Host: Acer Predator Helios 300
+Host: Custom Security Lab
 Kernel: 6.8.0-amd64
 Uptime: 1337 days
 Packages: 4200 (dpkg)
@@ -96,6 +76,8 @@ neeraj    1339  0.0  0.1 1339 4202 ?        S    00:00   0:00 /usr/bin/ai_securi
 neeraj    1340  0.0  0.1 1340 4203 ?        S    00:00   0:00 /usr/bin/full_stack_dev
 neeraj    1341  0.0  0.1 1341 4204 ?        S    00:00   0:00 /usr/bin/osint_specialist
 neeraj    1342  0.0  0.1 1342 4205 ?        S    00:00   0:00 /usr/bin/blockchain_dev
+neeraj    1343  0.0  0.1 1343 4206 ?        S    00:00   0:00 /usr/bin/ai_engineer
+neeraj    1344  0.0  0.1 1344 4207 ?        S    00:00   0:00 /usr/bin/springer_researcher
 
 root@kali:~# nmap -sV localhost
 Starting Nmap 7.94 ( https://nmap.org ) at 2026-01-19 00:00 IST
@@ -118,53 +100,7 @@ Connection to kali closed.
 
 ---
 
-## 💻 TERMINAL UI WITH COMMANDS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-```bash
-┌──(neeraj㉿kali)-[~]
-└─$ whois Neeraj_Upadhayay
-
-    Name: Neeraj Upadhayay
-    Alias: Black Hat
-    Location: Buxar, Bihar, India 🇮🇳
-    Education: B.Tech CSE (Cybersecurity) - Final Year
-    Role: Cybersecurity Engineer & AI Security Developer
-    Mission: Securing the digital world one vulnerability at a time
-    Motto: Hack the Planet 🖤
-    Specialization: 
-        - Penetration Testing
-        - Network Security
-        - Web Application Security
-        - Malware Analysis
-        - Reverse Engineering
-        - OSINT
-        - Blockchain Security
-        - AI Security
-    Certifications: 
-        - CEH (Certified Ethical Hacker)
-        - OSCP (Offensive Security Certified Professional)
-        - CISSP (Certified Information Systems Security Professional)
-    Achievements: 
-        - Found 100+ CVEs
-        - Top 10 Bug Bounty Hunter 2025
-        - Speaker at DEF CON 2025
-        - Author of 3 Security Books
-    Hacker Status: 🟢 Active
-    Last Seen: Just Now
-
-┌──(neeraj㉿kali)-[~]
-└─$ █
-```
-
----
-
 ## 👤 ABOUT ME - HACKER STYLE
-
-### 🧑‍💻 Who Am I?
 
 ```python
 #!/usr/bin/env python3
@@ -180,20 +116,16 @@ class NeerajUpadhayay:
         self.name = "Neeraj Upadhayay"
         self.alias = "Black Hat"
         self.location = "Buxar, Bihar, India 🇮🇳"
-        self.education = "B.Tech CSE (Cybersecurity) - Final Year"
+        self.education = "B.Tech CSE (Cybersecurity) - Final Year, IILM University"
+        self.cgpa = 7.05
         self.role = "Cybersecurity Engineer & AI Security Developer"
         self.mission = "Securing the digital world one vulnerability at a time"
         self.motto = "Hack the Planet 🖤"
         self.hacker_rank = "Elite Hacker"
         self.bounty_hunter_rank = "Legendary"
-        self.cve_count = 100
-        self.bug_bounty_rewards = "$500,000+"
-        self.speaker_at = ["DEF CON 2025", "Black Hat 2025", "OWASP Global 2025"]
-        self.published_books = [
-            "The Art of Ethical Hacking",
-            "Zero-Day Exploitation Techniques",
-            "AI Security: The Future of Cyber Defense"
-        ]
+        self.hackathon_wins = 5
+        self.publications = "Springer Nature - AI-Powered Web3 Firewall (97.8% accuracy)"
+        self.speaker_at = ["IEEE International Conference", "Innovate Bharat Hackathon 2026"]
         
         self.interests = [
             "🔐 Cybersecurity & Ethical Hacking",
@@ -213,31 +145,31 @@ class NeerajUpadhayay:
                 "Penetration Testing",
                 "Network Security", 
                 "Web Security",
-                "Malware Analysis",
-                "Reverse Engineering",
-                "Social Engineering",
-                "Cryptography",
-                "Digital Forensics"
+                "Vulnerability Assessment",
+                "Threat Detection",
+                "Firewall Development",
+                "DDoS Protection",
+                "Honeypot Networks"
             ],
             "AI/ML": [
                 "Deep Learning",
-                "Computer Vision",
-                "NLP",
                 "Threat Detection",
-                "Adversarial ML",
-                "AI Security"
+                "AI Security",
+                "Social Media Intelligence",
+                "Phishing Detection",
+                "Anomaly Detection"
             ],
             "Development": [
-                "Python",
-                "JavaScript",
                 "TypeScript",
-                "Rust",
-                "Go",
-                "Solidity",
-                "C++",
+                "JavaScript",
+                "Python",
                 "Java",
-                "Ruby",
-                "Swift"
+                "Go",
+                "Kotlin",
+                "Solidity",
+                "Lua",
+                "C",
+                "Rust"
             ],
             "Tools": [
                 "Metasploit",
@@ -247,16 +179,29 @@ class NeerajUpadhayay:
                 "Docker",
                 "Kubernetes",
                 "Git",
-                "Jenkins",
-                "Terraform"
+                "OWASP ZAP",
+                "SQLMap",
+                "Gobuster",
+                "Nikto",
+                "Wazuh",
+                "Splunk"
             ]
         }
+        
+        self.certifications = [
+            "Cybersecurity Analyst - Forage",
+            "Foundations of Cybersecurity - Google",
+            "Introduction to Cybercrime - Simplilearn",
+            "Certified Phishing Prevention Specialist (CPPS) - Hack & Fix Academy"
+        ]
         
         self.current_projects = [
             "AI-Powered Universal Firewall",
             "TechBuddy AI Healthcare",
             "Password Strength Analyzer",
-            "Blockchain KYC System"
+            "Blockchain KYC System",
+            "SecureSurfBot - Phishing Detection",
+            "Honeypot Network - Multi-protocol"
         ]
         
         self.future_goals = [
@@ -287,162 +232,152 @@ print(me.greet())
 print(me.status())
 print(f"🎯 Mission: {me.mission}")
 print(f"💀 Motto: {me.motto}")
+print(f"🎓 Education: {me.education} (CGPA: {me.cgpa})")
 print(f"🔍 Skills: {', '.join(me.skills['Cybersecurity'][:5])}")
-print(f"📚 Books: {', '.join(me.published_books)}")
+print(f"📚 Publications: {me.publications}")
+print(f"🏆 Hackathon Wins: {me.hackathon_wins}x")
 print(f"🎤 Speaking at: {', '.join(me.speaker_at)}")
-print(f"💰 Bug Bounty Rewards: {me.bug_bounty_rewards}")
-print(f"📊 CVEs Found: {me.cve_count}")
+print(f"📜 Certifications: {', '.join(me.certifications)}")
 print(f"🌟 Hacker Rank: {me.hacker_rank}")
 print(f"🔖 Quote: {me.hacker_quote()}")
 ```
 
 ---
 
-## 🛡️ CYBERSECURITY TOOLKIT - EXPANDED
-
-### 💻 Operating Systems
+## 🔥 LIVE STATUS DASHBOARD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-2E8B57?style=for-the-badge&logo=parrotsec&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
-</p>
-
-### 🔍 Reconnaissance Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maltego-FF69B4?style=for-the-badge&logo=maltego&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shodan-4B0082?style=for-the-badge&logo=shodan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TheHarvester-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zenmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recon--ng-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amass-00FF00?style=for-the-badge&logo=go&logoColor=black"/>
-</p>
-
-### 🌐 Web Security Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=perl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeEF-FF0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XSStrike-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FFUF-00FF00?style=for-the-badge&logo=go&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WPScan-00FF00?style=for-the-badge&logo=wordpress&logoColor=black"/>
-</p>
-
-### 💣 Exploitation Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-4682B4?style=for-the-badge&logo=john-the-ripper&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra-FF4500?style=for-the-badge&logo=hydra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AirCrack--ng-00FF00?style=for-the-badge&logo=aircrack-ng&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ettercap-00FF00?style=for-the-badge&logo=ettercap&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Social_Engineer_Toolkit-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
-
-### 🔐 Password Cracking
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hashcat-00FF00?style=for-the-badge&logo=hashcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-4682B4?style=for-the-badge&logo=john-the-ripper&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Crunch-00FF00?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cain_&_Abel-00FF00?style=for-the-badge&logo=windows&logoColor=black"/>
-</p>
-
-### 📡 Network Security
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TCPDump-00FF00?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nessus-00FF00?style=for-the-badge&logo=tenable&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenVAS-00FF00?style=for-the-badge&logo=openvas&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeek-00FF00?style=for-the-badge&logo=zeek&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=Neerajupadhayay2004&style=for-the-badge&color=00ff00&label=🛡️+HACKERS+VISITED&base=1000"/>
+  <img src="https://img.shields.io/github/followers/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👥+FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=⭐+TOTAL+STARS"/>
+  <img src="https://img.shields.io/github/watchers/Neerajupadhayay2004/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👀+WATCHERS"/>
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-ACTIVE-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HACKATHON_WINS-5x-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PUBLISHED-RESEARCHER-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPRINGER_NATURE-AUTHOR-00ff00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 COMPLETE TECH STACK - WITH ICONS
+## 💻 COMPLETE TECH STACK - FROM YOUR REPOSITORIES
 
 ### 🐍 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,rust,go,javascript,typescript,c,cpp,solidity,r,bash,php,ruby,swift,kotlin,dart,lua,perl,scala,elixir,clojure,haskell&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,kotlin,lua,rust,c,solidity&perline=5"/>
 </p>
+
+**Language Distribution:**
+- **TypeScript** - 30+ repositories (Dominant)
+- **JavaScript** - 5+ repositories
+- **Python** - 4 repositories (AI/ML, Cybersecurity)
+- **Java** - 3 repositories
+- **Go** - 2 repositories
+- **Kotlin** - 1 repository (Android)
+- **Lua** - 1 repository
+- **Rust** - 1 repository
+- **Solidity** - 1 repository (Blockchain)
 
 ### 🖥️ Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,svelte,html,css,tailwind,bootstrap,materialui,figma,webpack,vite,jquery,threejs&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma,webpack,vite,jquery&perline=5"/>
 </p>
+
+- **React** - Primary framework
+- **Next.js** - SSR applications
+- **HTML5/CSS3** - Web development
+- **Tailwind CSS** - Styling
+- **Bootstrap** - UI framework
+- **Figma** - Design prototyping
 
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,laravel,rails,gin,nestjs,graphql,apollo,deno,bun&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,graphql&perline=4"/>
 </p>
+
+- **Node.js/Express** - JavaScript backend
+- **Python (Flask/Django)** - AI/ML integration
+- **Java (Spring)** - Enterprise applications
+- **Go** - High-performance services
+- **GraphQL** - API development
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis,elasticsearch,neo4j,cassandra,oracle,mariadb,dynamodb,cockroachdb&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis&perline=4"/>
 </p>
+
+- **MongoDB** - NoSQL
+- **MySQL** - Relational
+- **PostgreSQL** - Advanced relational
+- **Firebase** - Real-time database
+- **Supabase** - Open-source Firebase
+- **Redis** - Caching
 
 ### ☁️ DevOps & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,jenkins,githubactions,gitlab,ansible,prometheus,grafana,nginx,apache,cloudflare,heroku,netlify,vercel&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,jenkins,githubactions,nginx&perline=5"/>
 </p>
+
+- **Docker** - Containerization
+- **Kubernetes** - Orchestration
+- **AWS/Azure/GCP** - Cloud platforms
+- **Terraform** - Infrastructure as Code
+- **GitHub Actions** - CI/CD
 
 ### 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv,fastai,langchain,spark,matlab,rapids,mlflow&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv&perline=4"/>
 </p>
 
-### 🎨 Design & Creativity
+- **TensorFlow** - Deep learning
+- **PyTorch** - Research AI
+- **Scikit-learn** - ML algorithms
+- **OpenCV** - Computer vision
+
+### 🔐 Cybersecurity Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,premiere,aftereffects,illustrator,xd,lightroom&perline=4"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-00FF00?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=perl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shodan-4B0082?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-00FF00?style=for-the-badge&logo=wazuh&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
-### 📱 Mobile Development
+### ⛓️ Blockchain
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,androidstudio,swift,kotlin,appwrite&perline=3"/>
-</p>
-
-### 🎮 Game Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,threejs&perline=3"/>
-</p>
-
-### 🔧 Other Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,idea,pycharm,atom,sublime,vim,neovim,emacs&perline=4"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 MAJOR PROJECTS
 
-### 🛡️ AI-Powered Universal Firewall
+### 🛡️ AI-Powered Universal Firewall (Cyber Shield)
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🛡️ AI-POWERED UNIVERSAL FIREWALL                                         │
-│ ⚡ Real-time Threat Detection & Prevention                                │
+│ 🛡️ CYBER SHIELD - AI-POWERED FIREWALL                                    │
+│ ⚡ Real-time Threat Detection with Web3 Integration                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 🎯 ACHIEVEMENT: 97.8% Threat Detection Accuracy                          │
+│ 📚 PUBLISHED: Springer Nature (Atlantis Press) - December 2025          │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Features:                                                                 │
 │   🤖 ML-based Anomaly Detection                                          │
@@ -453,21 +388,71 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 │   🧠 Self-learning AI Models                                             │
 │   🔍 Zero-day Attack Detection                                           │
 │   ☁️ Cloud-based Threat Intelligence                                     │
+│   🖥️ Customizable OS Integration                                        │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Tech Stack:                                                               │
-│   Python  •  TensorFlow  •  FastAPI  •  Docker  •  Redis                │
-│   React  •  WebSocket  •  Kafka  •  Prometheus  •  Grafana              │
+│   TypeScript  •  Python  •  TensorFlow  •  FastAPI  •  Docker           │
+│   React  •  WebSocket  •  Solidity  •  Web3.js  •  MongoDB             │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Status: 🟢 Active - v3.2.1                                               │
-│ GitHub: https://github.com/Neerajupadhayay2004/ai-firewall              │
+│ 🔗 Live Demo: https://bt-3030-sarva-firewall.vercel.app/                │
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🌐 Honeypot Network - Multi-Protocol
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🌐 HONEYPOT NETWORK - MULTI-PROTOCOL                                    │
+│ 🎯 Simulates 6 Real Services with MITRE ATT&CK Detection                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   🖥️ Multi-service Simulation (6 protocols)                             │
+│   📊 React Dashboard with Real-time Events                              │
+│   🔄 WebSocket Event Streaming                                          │
+│   🛡️ MITRE ATT&CK Framework Integration                                │
+│   📦 IOC Extraction & Analysis                                          │
+│   📜 STIX 2.1 Threat Intelligence Export                                │
+│   🐳 Dockerized for Easy Deployment                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   TypeScript  •  React  •  Node.js  •  WebSocket  •  Docker            │
+│   Python  •  MITRE ATT&CK  •  STIX 2.1  •  MongoDB                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 🔗 Live Demo: https://honeypot-network.carterperez-dev.com/             │
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🤖 SecureSurfBot - Phishing Detection
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🤖 SECURESURFBOT - AI PHISHING DETECTION                                │
+│ 🎯 Rule-based + ML techniques for Real-time Prediction                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   🧠 ML-based Website & Email Analysis                                  │
+│   ⚡ Real-time Phishing Detection                                       │
+│   🔍 Malicious URL Detection                                            │
+│   📊 Threat Intelligence Dashboard                                      │
+│   🛡️ Automated Alert System                                             │
+│   🎯 Pattern Recognition & Anomaly Detection                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   Python  •  Scikit-learn  •  Flask  •  JavaScript  •  HTML/CSS        │
+│   TensorFlow  •  MongoDB  •  Redis                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📅 Timeline: May 2025 - May 2026                                        │
+│ 📁 Repository: [Your Repo Link]                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🏥 TechBuddy AI Healthcare
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🏥 TECHBUDDY AI HEALTHCARE                                               │
+│ 🏥 TECHBUDDY AI HEALTHCARE                                             │
 │ 🤖 AI-Powered Health Assistance & Monitoring                             │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Features:                                                                 │
@@ -476,22 +461,21 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 │   📊 Patient Health Dashboard                                             │
 │   🤖 24/7 AI Chatbot                                                      │
 │   ⛓️ Immutable Medical Records                                           │
-│   📱 Mobile App for Patients                                              │
+│   📱 Mobile App (Android - Kotlin)                                       │
 │   🏥 Hospital Management System                                           │
-│   💊 Medication Reminder                                                  │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Tech Stack:                                                               │
-│   React  •  Node.js  •  Python  •  MongoDB  •  TensorFlow               │
-│   Web3.js  •  Solidity  •  Docker  •  Kubernetes                        │
+│   TypeScript  •  React  •  Node.js  •  Python  •  MongoDB               │
+│   TensorFlow  •  Web3.js  •  Solidity  •  Docker  •  Kubernetes        │
+│   Kotlin (Android)                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Status: 🟢 Active - v2.5.0                                               │
-│ GitHub: https://github.com/Neerajupadhayay2004/techbuddy-ai             │
+│ 📁 Repository: [Your Repo Link]                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🔐 Password Strength Analyzer
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🔐 PASSWORD STRENGTH ANALYZER                                            │
 │ 🧠 AI-Based Password Security Assessment                                 │
@@ -504,20 +488,18 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 │   📊 Visual Analysis Dashboard                                             │
 │   🔑 Password Generator                                                   │
 │   🛡️ Security Health Check                                               │
-│   📈 Historical Analysis                                                  │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Tech Stack:                                                               │
 │   Python  •  Flask  •  JavaScript  •  HTML/CSS  •  React                │
 │   TensorFlow  •  Redis  •  PostgreSQL                                    │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Status: 🟢 Active - v4.0.0                                               │
-│ GitHub: https://github.com/Neerajupadhayay2004/password-analyzer        │
+│ 📁 Repository: [Your Repo Link]                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### ⛓️ Blockchain KYC System
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ ⛓️ BLOCKCHAIN KYC VERIFICATION SYSTEM                                    │
 │ 🆔 Decentralized Identity & Verification                                 │
@@ -533,17 +515,16 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 │   📱 Mobile Identity Wallet                                               │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Tech Stack:                                                               │
-│   Solidity  •  Ethereum  •  Web3.js  •  React  •  Node.js               │
+│   Solidity  •  Ethereum  •  Web3.js  •  TypeScript  •  React            │
 │   Python  •  Zero-Knowledge Proofs  •  IPFS                             │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Status: 🟡 In Development - v0.9.0                                       │
-│ GitHub: https://github.com/Neerajupadhayay2004/blockchain-kyc           │
+│ 📁 Repository: [Your Repo Link]                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 🌐 Dark Web Monitor
+### 🌐 Dark Web Monitor (OSINT Tool)
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🌐 DARK WEB MONITOR                                                      │
 │ 🔍 Real-time Dark Web Threat Intelligence                                │
@@ -559,17 +540,197 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 │   💰 Crypto Transaction Monitoring                                        │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ Tech Stack:                                                               │
-│   Python  •  Tor  •  BeautifulSoup  •  Selenium  •  React               │
-│   MongoDB  •  Elasticsearch  •  Redis  •  Docker                        │
+│   Python  •  Go  •  Tor  •  BeautifulSoup  •  Selenium                  │
+│   TypeScript  •  React  •  MongoDB  •  Elasticsearch  •  Docker         │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Status: 🟢 Active - v2.1.0                                               │
-│ GitHub: https://github.com/Neerajupadhayay2004/darkweb-monitor          │
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 💼 Cyber Crime Reporting Portal
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 💼 CYBER CRIME REPORTING PORTAL                                          │
+│ 🛡️ Anonymous Reporting & Case Tracking System                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   📝 Anonymous Crime Reporting                                           │
+│   🔐 End-to-End Encryption                                               │
+│   📊 Case Tracking Dashboard                                              │
+│   🤖 AI-based Report Analysis                                            │
+│   📜 Digital Evidence Management                                         │
+│   🏛️ Law Enforcement Integration                                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   TypeScript  •  React  •  Node.js  •  Python  •  PostgreSQL            │
+│   Docker  •  Redis  •  WebSocket                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🛡️ DDoS Attack Project
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ DDoS ATTACK DETECTION & MITIGATION                                   │
+│ ⚡ Real-time Traffic Analysis & Prevention                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   📊 Real-time Traffic Monitoring                                        │
+│   🧠 ML-based Attack Pattern Recognition                                 │
+│   🔄 Automated Mitigation Response                                       │
+│   📜 Attack Logging & Analysis                                           │
+│   🎯 Anomaly Detection                                                   │
+│   ☁️ Cloud-based Protection                                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   Python  •  Go  •  TypeScript  •  React  •  Node.js                    │
+│   TensorFlow  •  Redis  •  Docker  •  Kubernetes                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🔍 AI-Powered Social Media Intelligence
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🔍 SOCIAL MEDIA INTELLIGENCE SYSTEM                                      │
+│ 🤖 AI-Powered OSINT & Social Media Analysis                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   📊 Multi-platform Data Collection (Twitter, Instagram, LinkedIn)       │
+│   🧠 Sentiment Analysis                                                 │
+│   🔍 Threat Detection from Social Media                                 │
+│   📈 Trend Analysis & Prediction                                        │
+│   🎯 Profile Intelligence & Metadata Extraction                         │
+│   🤖 Automated Reporting System                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   Python  •  TensorFlow  •  JavaScript  •  React  •  Node.js            │
+│   MongoDB  •  Twitter API  •  Instagram API  •  Docker                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🚗 Driver Alert AI System
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚗 DRIVER ALERT - AI SAFETY SYSTEM                                      │
+│ 🤖 Computer Vision-based Driver Monitoring                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   👁️ Real-time Eye Tracking & Drowsiness Detection                      │
+│   📱 Multi-device Alert System                                           │
+│   🧠 ML-based Behavior Analysis                                         │
+│   📊 Safety Score Dashboard                                               │
+│   🔄 Instant Notification System                                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   Python  •  OpenCV  •  TensorFlow  •  Flutter  •  Firebase             │
+│   Docker  •  WebSocket  •  Redis                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 💰 Debt Recovery AI
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 💰 DEBT RECOVERY AI SYSTEM                                               │
+│ 🤖 AI-Powered Financial Recovery Assistant                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   🧠 AI-based Debtor Profiling                                          │
+│   📊 Predictive Payment Behavior Analysis                                │
+│   🤖 Automated Chatbot for Collections                                   │
+│   📈 Recovery Strategy Optimization                                      │
+│   🔒 Secure Payment Integration                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   Python  •  Scikit-learn  •  Flask  •  React  •  PostgreSQL            │
+│   Redis  •  Docker  •  Stripe API                                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🕒 Time Scheduler AI
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🕒 TIME SCHEDULER AI                                                    │
+│ 🤖 AI-Powered Intelligent Scheduling System                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   🧠 AI-based Task Prioritization                                       │
+│   📊 Smart Calendar Integration                                          │
+│   🤖 Automated Scheduling Assistant                                      │
+│   📈 Productivity Analytics                                              │
+│   🔄 Real-time Updates & Notifications                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   TypeScript  •  React  •  Node.js  •  Python  •  MongoDB               │
+│   Redis  •  Docker  •  Google Calendar API                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🛍️ Grocery E-Commerce Platform
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🛍️ GROCERY E-COMMERCE PLATFORM                                         │
+│ 🛒 Full-stack Online Grocery Store                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   🛒 Product Catalog & Categories                                       │
+│   🛍️ Shopping Cart & Checkout System                                   │
+│   💳 Payment Gateway Integration                                        │
+│   📦 Real-time Order Tracking                                           │
+│   📱 Responsive Design                                                   │
+│   🔐 Secure User Authentication                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   TypeScript  •  React  •  Node.js  •  Express  •  MongoDB              │
+│   Stripe API  •  Docker  •  Redis                                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 📈 Multi-Level Marketing (MLM) Portal
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📈 MLM PORTAL SYSTEM                                                    │
+│ 📊 Multi-Level Marketing Management Platform                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Features:                                                                 │
+│   👥 User Management & Commission Tracking                              │
+│   📊 Real-time Analytics & Reporting                                     │
+│   🎯 MLM Tree Visualization                                             │
+│   💰 Payment & Commission Management                                    │
+│   🔐 Secure Admin Dashboard                                              │
+│   📱 Responsive Design                                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:                                                               │
+│   TypeScript  •  React  •  Node.js  •  PostgreSQL  •  Docker            │
+│   Chart.js  •  WebSocket  •  Redis                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📁 Repository: [Your Repo Link]                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GITHUB STATISTICS - ENHANCED
+## 📊 GITHUB STATISTICS
 
 ### 🔥 Overall Stats
 
@@ -596,20 +757,6 @@ print(f"🔖 Quote: {me.hacker_quote()}")
   <img src="https://github-profile-trophy.vercel.app/?username=Neerajupadhayay2004&theme=radical&no-frame=true&row=2&column=4"/>
 </p>
 
-### 📊 WakaTime Stats
-
-<p align="center">
-  <img src="https://wakatime.com/share/@neerajupadhayay/random-code.png" width="80%"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE GAME
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
 ---
 
 ## 🎯 HACKER QUOTES - ROTATING
@@ -632,22 +779,6 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 
 ---
 
-## 🔥 HACKER MOTIVATION
-
-### 💀 "Think Like An Attacker"
-
-### 🎯 "Security is a mindset, not a tool"
-
-### ⚡ "Your system is only as secure as your weakest link"
-
-### 🖤 "The only way to win is to think like an attacker"
-
-### 🌟 "Every vulnerability found is a system made stronger"
-
-### 🔐 "In cybersecurity, we don't break things, we fix them"
-
----
-
 ## 📫 CONNECT WITH ME
 
 <p align="center">
@@ -663,20 +794,8 @@ print(f"🔖 Quote: {me.hacker_quote()}")
   <a href="https://instagram.com/neeraj.har">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://mastodon.social/@Neeraj%20Upadhayay">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/NeerajUpadhayay">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@neerajupadhayay">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://twitch.tv/neeraj_hacker">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/hackerhouse">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://portfolio-1-bd7h.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
@@ -685,14 +804,8 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 ## ☕ SUPPORT MY WORK
 
 <p align="center">
-  <a href="https://patreon.com/Black%20Hat">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
-  </a>
   <a href="https://buymeacoffee.com/neerajupadhayay">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  <a href="https://paypal.me/neerajupadhayay">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
   <a href="https://github.com/sponsors/Neerajupadhayay2004">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -708,7 +821,7 @@ print(f"🔖 Quote: {me.hacker_quote()}")
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=30&center=true&vCenter=true&width=1100&height=80&lines=🖤+HACK+THE+PLANET+🖤;🔐+STAY+SAFE,+STAY+SECURE+🔐;💀+THE+MATRIX+HAS+YOU+💀;⚡+ZERO+DAY+EXPLOIT+HUNTER+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=30&center=true&vCenter=true&width=1100&height=80&lines=🖤+HACK+THE+PLANET+🖤;🔐+STAY+SAFE,+STAY+SECURE+🔐;💀+THE+MATRIX+HAS+YOU+💀;⚡+ZERO+DAY+EXPLOIT+HUNTER+⚡;🏆+5x+HACKATHON+WINNER+🏆;📚+SPRINGER+NATURE+AUTHOR+📚"/>
 </p>
 
 <p align="center">
@@ -723,9 +836,3 @@ print(f"🔖 Quote: {me.hacker_quote()}")
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
----
-
-**⭐ If you like this profile, consider giving it a star!**
-ponsor badges
-
-This profile is designed to make you stand out as a serious cybersecurity professional and developer! 🚀
