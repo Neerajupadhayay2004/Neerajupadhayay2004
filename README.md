@@ -4,19 +4,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,0,2,0&height=300&section=header&text=NEERAJ%20UPADHAYAY&fontSize=70&fontColor=00ff00&animation=fadeIn&desc=⚡%20CYBERSECURITY%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=25&descAlignY=75&fontAlignY=35&descAlignY=55"/>
 </p>
 
-<!-- 3D Animated Matrix Effect -->
+<!-- Animated Matrix Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=1200&height=100&lines=%F0%9F%94%90+SECURING+THE+DIGITAL+WORLD;%F0%9F%9B%A1%EF%B8%8F+AI-POWERED+FIREWALL+ARCHITECT;%F0%9F%8E%AF+BUG+BOUNTY+HUNTER;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%E2%9B%93%EF%B8%8F+BLOCKCHAIN+SECURITY+EXPLORER;%F0%9F%A4%96+AI+%26+ML+ENGINEER;%F0%9F%93%A1+OSINT+SPECIALIST;%F0%9F%94%A5+5x+HACKATHON+WINNER" alt="Typing SVG" />
 </p>
 
-<!-- 3D Rotating Snake Animation -->
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </div>
 
 ---
 
-## 🎮 3D INTERACTIVE DASHBOARD
+## 📊 LIVE STATUS DASHBOARD
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Neerajupadhayay2004&style=for-the-badge&color=00ff00&label=🛡️+HACKERS+VISITED&base=2000"/>
@@ -25,17 +25,18 @@
   <img src="https://img.shields.io/github/watchers/Neerajupadhayay2004/Neerajupadhayay2004?style=for-the-badge&color=00ff00&label=👀+WATCHERS"/>
 </p>
 
-<!-- Animated 3D Status Cards -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_SYSTEM_STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=statuspal&logoColor=black"/>
-  <img src="https://img.shields.io/badge/🛡️_THREAT_LEVEL-MINIMAL-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯_ACCURACY-97.8%25-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥_SYSTEM_STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=statuspal&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🛡️_THREAT_LEVEL-MINIMAL-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_ACCURACY-97.8%25-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-ACTIVE-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HACKATHON_WINS-5x-00ff00?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ---
 
-## 💀 HACKER TERMINAL - LIVE SIMULATION
+## 💀 HACKER TERMINAL
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=100&pause=100&color=00FF00&center=true&vCenter=true&width=1000&height=40&lines=root@kali:~%23+initializing+secure+connection..." alt="Terminal" />
@@ -69,6 +70,9 @@
 │  🔍 OSINT  •  📡 NETWORK SECURITY  •  ☁️ CLOUD ARCHITECT              │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
+
+root@kali:~# whoami
+neeraj_upadhayay
 
 root@kali:~# ./initialize_hacker_profile.sh
 [✓] Loading security modules...
@@ -110,7 +114,7 @@ Nmap done: 1 IP address scanned in 0.42 seconds
 
 import numpy as np
 from dataclasses import dataclass
-from typing import Dict, List, Optional
+from typing import Dict, List
 import tensorflow as tf
 
 @dataclass
@@ -121,6 +125,8 @@ class HackerProfile:
     codename: str = "Black Hat"
     role: str = "Cybersecurity Engineer & AI Security Developer"
     location: str = "Buxar, Bihar, India 🇮🇳"
+    education: str = "B.Tech CSE (Cybersecurity) - Final Year, IILM University"
+    cgpa: float = 7.05
     
     # 3D Positioning
     x: float = 25.7341  # Latitude
@@ -165,8 +171,28 @@ class HackerProfile:
                 "DApp Development",
                 "Cryptography",
                 "Consensus Algorithms"
+            ],
+            "DEVELOPMENT": [
+                "TypeScript (30+ repos)",
+                "Python (4 repos)",
+                "Java (3 repos)",
+                "Go (2 repos)",
+                "Rust (1 repo)"
             ]
         }
+        
+        self.certifications = [
+            "Cybersecurity Analyst - Forage",
+            "Foundations of Cybersecurity - Google",
+            "Introduction to Cybercrime - Simplilearn",
+            "Certified Phishing Prevention Specialist (CPPS) - Hack & Fix Academy"
+        ]
+        
+        self.publications = [
+            "Springer Nature - AI-Powered Web3 Firewall (97.8% accuracy)",
+            "IEEE International Conference Speaker",
+            "Innovate Bharat Hackathon 2026 Speaker"
+        ]
     
     def calculate_power_level(self) -> int:
         """Calculate hacker power level"""
@@ -178,44 +204,72 @@ class HackerProfile:
         
         return int(base_power + accuracy_bonus + experience_bonus + bounty_bonus + hackathon_bonus)
     
-    def get_3d_coordinates(self) -> Dict[str, float]:
-        """Return 3D position in cyberspace"""
-        return {
-            "x": self.x,
-            "y": self.y,
-            "z": self.z,
-            "dimension": "cybersecurity_multiverse"
-        }
-    
     def generate_holo_stats(self) -> str:
         """Generate holographic statistics"""
         power = self.calculate_power_level()
         return f"""
-        ╔══════════════════════════════════════════╗
-        ║     🎮 3D HOLOGRAPHIC PROFILE CARD      ║
-        ╠══════════════════════════════════════════╣
-        ║ Name: {self.name}          ║
-        ║ Codename: {self.codename}              ║
-        ║ Power Level: {power:,}              ║
-        ║ Threat Detection: {self.threat_detection_accuracy}%       ║
-        ║ Vulnerabilities Found: {self.vulnerabilities_found}      ║
-        ║ Bug Bounties: {self.bug_bounties_claimed}               ║
-        ║ Hackathon Wins: {self.hackathon_wins}x               ║
-        ║ Coordinates: ({self.x}, {self.y}, {self.z})  ║
-        ╚══════════════════════════════════════════╝
+        ╔══════════════════════════════════════════════════╗
+        ║         🎮 3D HOLOGRAPHIC PROFILE CARD           ║
+        ╠══════════════════════════════════════════════════╣
+        ║ Name: {self.name}                  ║
+        ║ Codename: {self.codename}                      ║
+        ║ Power Level: {power:,}                      ║
+        ║ Threat Detection: {self.threat_detection_accuracy}%               ║
+        ║ Vulnerabilities Found: {self.vulnerabilities_found}              ║
+        ║ Bug Bounties: {self.bug_bounties_claimed}                       ║
+        ║ Hackathon Wins: {self.hackathon_wins}x                       ║
+        ║ Coordinates: ({self.x}, {self.y}, {self.z})          ║
+        ║ Education: {self.education}    ║
+        ║ CGPA: {self.cgpa}                                  ║
+        ╚══════════════════════════════════════════════════╝
         """
     
     def display_skills_radar(self) -> None:
         """Display 3D skill radar chart"""
         print("📊 3D SKILL RADAR INITIALIZING...")
-        print("╔══════════════════════════════════════════════════╗")
-        print("║              🎯 SKILL MATRIX 3D VIEW             ║")
-        print("╠══════════════════════════════════════════════════╣")
+        print("╔══════════════════════════════════════════════════════════╗")
+        print("║                  🎯 SKILL MATRIX 3D VIEW                 ║")
+        print("╠══════════════════════════════════════════════════════════╣")
         
         for category, skills in self.skills_matrix.items():
-            print(f"║ 📍 {category:12} │ {'  •  '.join(skills[:3])}  ║")
+            skills_str = '  •  '.join(skills[:3])
+            print(f"║ 📍 {category:12} │ {skills_str:45} ║")
         
-        print("╚══════════════════════════════════════════════════╝")
+        print("╚══════════════════════════════════════════════════════════╝")
+    
+    def display_3d_position(self) -> None:
+        """Display 3D position in cyberspace"""
+        print("\n🌐 3D CYBERSPACE POSITION:")
+        print(f"""
+                Z-Axis (Hacker Level: {self.z})
+                ↑
+                │    ⚡ NEERAJ (1337)
+                │   ╱
+                │  ╱
+                │ ╱
+                │╱
+                └──────────────────→ Y-Axis (Longitude: {self.y})
+               ╱
+              ╱
+             ╱
+            ↓
+           X-Axis (Latitude: {self.x})
+        """)
+    
+    def display_neural_network(self) -> None:
+        """Display neural network visualization"""
+        print("\n🧠 NEURAL NETWORK - AI SECURITY MODEL:")
+        print("""
+            Input Layer      Hidden Layers      Output Layer
+            (Features)       (Deep Learning)    (Predictions)
+            
+            🔍 URL         ╭───╮   ╭───╮   ╭───╮    ✅ Safe
+            🔐 SSL         │N1 │───│N2 │───│N3 │    ⚠️ Suspicious
+            📧 Email       │   │   │   │   │   │    🚨 Malicious
+            🌐 Domain      ╰───╯   ╰───╯   ╰───╯
+            📊 Traffic          ↘     ↓     ↗
+            🕵️ Behavior    [97.8% Detection Accuracy]
+        """)
     
     def quote(self) -> str:
         """Generate random hacker quote"""
@@ -233,71 +287,49 @@ class HackerProfile:
 # Initialize 3D Holographic Profile
 hacker = HackerProfile()
 
-# Display Profile
+# Display Complete Profile
 print(hacker.generate_holo_stats())
 print("\n" + "="*60 + "\n")
 hacker.display_skills_radar()
 print("\n" + "="*60 + "\n")
-print(f"💭 Quote: {hacker.quote()}")
-
-# 3D Position Visualization
+hacker.display_3d_position()
 print("\n" + "="*60 + "\n")
-print("🌐 3D CYBERSPACE POSITION:")
-print(f"""
-        Z-Axis (Hacker Level: {hacker.z})
-        ↑
-        │    ⚡ NEERAJ (1337)
-        │   ╱
-        │  ╱
-        │ ╱
-        │╱
-        └──────────────────→ Y-Axis (Longitude: {hacker.y})
-       ╱
-      ╱
-     ╱
-    ↓
-   X-Axis (Latitude: {hacker.x})
-""")
-
-# Neural Network Visualization
-print("🧠 NEURAL NETWORK - AI SECURITY MODEL:")
-print("""
-    Input Layer      Hidden Layers      Output Layer
-    (Features)       (Deep Learning)    (Predictions)
-    
-    🔍 URL         ╭───╮   ╭───╮   ╭───╮    ✅ Safe
-    🔐 SSL         │N1 │───│N2 │───│N3 │    ⚠️ Suspicious
-    📧 Email       │   │   │   │   │   │    🚨 Malicious
-    🌐 Domain      ╰───╯   ╰───╯   ╰───╯
-    📊 Traffic          ↘     ↓     ↗
-    🕵️ Behavior    [97.8% Detection Accuracy]
-""")
+hacker.display_neural_network()
+print("\n" + "="*60 + "\n")
+print(f"💭 Quote: {hacker.quote()}")
+print("\n" + "="*60 + "\n")
+print(f"🎓 Certifications:")
+for cert in hacker.certifications:
+    print(f"   📜 {cert}")
+print("\n📚 Publications:")
+for pub in hacker.publications:
+    print(f"   📖 {pub}")
 ```
 
 ---
 
-## 📊 3D STATISTICS VISUALIZATION
+## 📊 GITHUB STATISTICS
 
-### 🎮 Interactive Stats Dashboard
+### 🔥 Overall Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neerajupadhayay2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00&show_owner=true&include_all_commits=true&count_private=true&custom_title=🎯%20NEERAJ%27S%20STATS" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajupadhayay2004&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&currStreakNum=00ff00&sideNums=00ff00&stroke=00ff00" width="48%"/>
 </p>
 
-### 💻 3D Language Distribution
+### 💻 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=12&custom_title=🌐%20LANGUAGE%20DISTRIBUTION&hide=html,css" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajupadhayay2004&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=12&custom_title=🌐%20LANGUAGE%20DISTRIBUTION" width="55%"/>
 </p>
 
-### 📈 3D Activity Graph
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajupadhayay2004&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&radius=16" width="95%"/>
 </p>
 
-### 🏆 3D Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Neerajupadhayay2004&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="85%"/>
@@ -305,45 +337,45 @@ print("""
 
 ---
 
-## 💻 3D TECH STACK
+## 💻 COMPLETE TECH STACK
 
-### 🐍 Programming Languages - 3D Grid
+### 🐍 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,kotlin,lua,rust,c,solidity&perline=5&theme=dark"/>
 </p>
 
-### 🖥️ Frontend - 3D Layer
+### 🖥️ Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma,webpack,vite,jquery&perline=5&theme=dark"/>
 </p>
 
-### ⚙️ Backend - 3D Layer
+### ⚙️ Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,graphql&perline=4&theme=dark"/>
 </p>
 
-### 🗄️ Databases - 3D Layer
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis&perline=4&theme=dark"/>
 </p>
 
-### ☁️ DevOps & Cloud - 3D Layer
+### ☁️ DevOps & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,jenkins,githubactions,nginx&perline=5&theme=dark"/>
 </p>
 
-### 🤖 AI & ML - 3D Layer
+### 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark"/>
 </p>
 
-### 🔐 Cybersecurity Arsenal
+### 🔐 Cybersecurity Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117"/>
@@ -353,18 +385,21 @@ print("""
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gobuster-00FF00?style=for-the-badge&logo=go&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=perl&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Shodan-4B0082?style=for-the-badge&logo=shodan&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Wazuh-00FF00?style=for-the-badge&logo=wazuh&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117"/>
 </p>
 
-### ⛓️ Blockchain Stack
+### ⛓️ Blockchain
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/KALP-00FF00?style=for-the-badge&logo=blockchain&logoColor=black&labelColor=0d1117"/>
 </p>
 
 ---
@@ -393,6 +428,7 @@ print("""
 │  🤖 ML Anomaly Detection  •  📊 Real-time Monitoring                     │
 │  🔄 Auto Response  •  ⛓️ Blockchain Logs  •  🎯 Predictive Intel       │
 │  🧠 Self-learning AI  •  🔍 Zero-day Detection  •  ☁️ Cloud Intel      │
+│  🖥️ Custom OS Integration                                                │
 │                                                                             │
 │  Stack: TypeScript • Python • TensorFlow • FastAPI • Docker • React      │
 │         WebSocket • Solidity • Web3.js • MongoDB                          │
@@ -418,7 +454,11 @@ print("""
 │                                                                             │
 │  🔗 Live: https://honeypot-network.carterperez-dev.com/                   │
 │                                                                             │
-│  Features: 6 Protocols • MITRE ATT&CK • STIX 2.1 • IOC Extraction        │
+│  Features:                                                                 │
+│  🖥️ 6 Protocol Simulation  •  📊 React Dashboard                        │
+│  🔄 WebSocket Events  •  🛡️ MITRE ATT&CK Framework                     │
+│  📦 IOC Extraction  •  📜 STIX 2.1 Export  •  🐳 Dockerized            │
+│                                                                             │
 │  Stack: TypeScript • React • Node.js • WebSocket • Docker • Python       │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -437,8 +477,13 @@ print("""
 │  │  🌐 Site │         │  🔍 Pattern │         │  🚨 Block│                 │
 │  └─────────┘         └─────────────┘         └─────────┘                 │
 │                                                                             │
-│  Features: ML Analysis • Real-time Detection • Malicious URL Detection    │
+│  Features:                                                                 │
+│  🧠 ML Website & Email Analysis  •  ⚡ Real-time Detection                │
+│  🔍 Malicious URL Detection  •  📊 Threat Dashboard                      │
+│  🛡️ Auto Alert System  •  🎯 Pattern Recognition                        │
+│                                                                             │
 │  Stack: Python • Scikit-learn • Flask • JavaScript • TensorFlow           │
+│         MongoDB • Redis                                                    │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -456,8 +501,14 @@ print("""
 │  │         │         │  📊 Health  │         │         │                 │
 │  └─────────┘         └─────────────┘         └─────────┘                 │
 │                                                                             │
-│  Features: AI Symptoms • E2E Encryption • Health Dashboard • 24/7 Chat    │
-│  Stack: TypeScript • React • Node.js • Python • MongoDB • Kotlin          │
+│  Features:                                                                 │
+│  🩺 AI Symptom Analysis  •  🔐 E2E Encryption                            │
+│  📊 Health Dashboard  •  🤖 24/7 AI Chatbot                              │
+│  ⛓️ Immutable Records  •  📱 Android App (Kotlin)                       │
+│  🏥 Hospital Management System                                            │
+│                                                                             │
+│  Stack: TypeScript • React • Node.js • Python • MongoDB • TensorFlow     │
+│         Web3.js • Solidity • Docker • Kubernetes • Kotlin                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -475,8 +526,14 @@ print("""
 │  │         │         │  🔍 Breach  │         │  👎 Weak │                │
 │  └─────────┘         └─────────────┘         └─────────┘                 │
 │                                                                             │
-│  Features: AI Scoring • Brute Force Sim • Breach Check • Generator        │
-│  Stack: Python • Flask • JavaScript • React • TensorFlow                  │
+│  Features:                                                                 │
+│  🧠 AI Strength Scoring  •  ⚡ Brute Force Simulation                     │
+│  🔍 Breach Check  •  🎯 Custom Recommendations                          │
+│  📊 Visual Dashboard  •  🔑 Password Generator                           │
+│  🛡️ Security Health Check                                                │
+│                                                                             │
+│  Stack: Python • Flask • JavaScript • React • TensorFlow • Redis          │
+│         PostgreSQL                                                         │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -494,14 +551,45 @@ print("""
 │  │         │         │  🌐 Cross   │         │         │                │
 │  └─────────┘         └─────────────┘         └─────────┘                 │
 │                                                                             │
-│  Features: Decentralized ID • ZK Proofs • Immutable Audit • Compliance    │
-│  Stack: Solidity • Ethereum • Web3.js • TypeScript • React • IPFS         │
+│  Features:                                                                 │
+│  🆔 Decentralized Identity  •  🤝 Zero-Knowledge Proofs                  │
+│  📜 Immutable Audit  •  🔒 Privacy-Preserving                            │
+│  🌐 Cross-Chain  •  🏛️ Regulatory Compliance                           │
+│  👥 Multi-party Verification  •  📱 Mobile Identity Wallet               │
+│                                                                             │
+│  Stack: Solidity • Ethereum • Web3.js • TypeScript • React • Python      │
+│         ZK Proofs • IPFS                                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🌐 Dark Web Monitor (OSINT Tool)
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    🌐 DARK WEB MONITOR - 3D VIEW                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│     CRAWLER               ANALYSIS               ALERTS                   │
+│  ┌─────────┐         ┌─────────────┐         ┌─────────┐                 │
+│  │  🕵️ Tor │────────►│  🧠 AI Threat│────────►│  📊 Dash │                 │
+│  │  🔍 Crawl│         │  📈 Analysis│         │  ⚡ Alert│                 │
+│  │         │         │  🛡️ Detect │         │         │                 │
+│  └─────────┘         └─────────────┘         └─────────┘                 │
+│                                                                             │
+│  Features:                                                                 │
+│  🔍 Auto Dark Web Crawling  •  🛡️ Data Breach Detection                 │
+│  📊 Threat Dashboard  •  ⚡ Real-time Alerts                              │
+│  🧠 AI Threat Analysis  •  🕵️ Anonymous Browsing                        │
+│  📜 Historical Analysis  •  💰 Crypto Monitoring                         │
+│                                                                             │
+│  Stack: Python • Go • Tor • BeautifulSoup • Selenium • TypeScript         │
+│         React • MongoDB • Elasticsearch • Docker                           │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 3D HACKER QUOTES - ROTATING
+## 🎯 HACKER QUOTES - ROTATING
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20world%20of%20cybersecurity%2C%20the%20only%20way%20to%20win%20is%20to%20think%20like%20an%20attacker&author=Neeraj%20Upadhayay" width="80%"/>
@@ -517,7 +605,22 @@ print("""
 
 ---
 
-## 📫 CONNECT WITH ME - 3D SOCIAL NETWORK
+## 🏆 ACHIEVEMENTS BADGE WALL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_5x_HACKATHON_WINNER-Innovate_Bharat_%26_More-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📚_PUBLISHED_RESEARCHER-Springer_Nature-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_97.8%25_ACCURACY-AI_Powered_Firewall-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎤_IEEE_SPEAKER-International_Conference-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🔐_CERTIFIED-Cybersecurity_Analyst-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_BUG_BOUNTY-Active_Hunter-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🛡️_THREAT_DETECTION-97.8%25-00ff00?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_ETHICAL_HACKER-ELITE-00ff00?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+---
+
+## 📫 CONNECT WITH ME
 
 <p align="center">
   <a href="https://linkedin.com/in/neeraj-upadhayay-2nd-a0958a246">
@@ -552,7 +655,7 @@ print("""
 
 ---
 
-## 🎮 3D ANIMATED FOOTER
+## 🎮 ANIMATED FOOTER
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,0,2,0&height=200&section=footer&text=HACK%20THE%20PLANET&fontSize=30&fontColor=00ff00&animation=twinkling"/>
@@ -564,20 +667,7 @@ print("""
 
 ---
 
-## 🎯 3D ACHIEVEMENTS BADGE WALL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_5x_HACKATHON_WINNER-Innovate_Bharat_%26_More-00ff00?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📚_PUBLISHED_RESEARCHER-Springer_Nature-00ff00?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎯_97.8%25_ACCURACY-AI_Powered_Firewall-00ff00?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎤_IEEE_SPEAKER-International_Conference-00ff00?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🔐_CERTIFIED-Cybersecurity_Analyst-00ff00?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎯_BUG_BOUNTY-Active_Hunter-00ff00?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
----
-
-## 🌟 3D MATRIX RAIN EFFECT
+## 🌟 MATRIX RAIN EFFECT
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
@@ -608,24 +698,7 @@ print("""
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
----
+-
+**🚀 This complete 3D animated profile showcases my expertise as a cybersecurity professional with advanced visual effects!**
 
-**⭐ If you like this profile, consider giving it a star!**
-
-**🚀 This 3D animated profile showcases my expertise as a cybersecurity professional with advanced visual effects!**
-```
-
-This is the complete, enhanced 3D animated profile with:
-
-1. **3D Holographic Profile** - Python dataclass with 3D coordinates
-2. **Neural Network Visualization** - ASCII art showing AI model architecture
-3. **Matrix Rain Effect** - Binary code display
-4. **3D Project Views** - Each project shown with visual architecture diagrams
-5. **Interactive Stats** - Enhanced GitHub stats with 3D styling
-6. **Skill Radar** - 3D skill matrix display
-7. **Animated Typing Effects** - Multiple rotating messages
-8. **Dark Theme** - Consistent black/green hacker aesthetic
-9. **Achievement Wall** - 3D badges showcase
-10. **Terminal Simulation** - Enhanced with more realistic commands
-
-The profile now has a complete 3D feel with layered visualizations, ASCII art diagrams, and animated elements throughout! 🚀
+**🔐 Full Stack Developer | AI Engineer | Ethical Hacker | Bug Bounty Hunter | Published Researcher**
